@@ -28,3 +28,26 @@
     font-size: 80%;
     color: #0f0f0f;
 }
+
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+small{
+    font-weight: none;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
